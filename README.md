@@ -24,7 +24,7 @@ VUETIFY
 
 WORDPRESS
 
-I can know the the following databases
+I know the the following databases
 
 MONGODB
 
