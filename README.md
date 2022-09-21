@@ -24,7 +24,7 @@ VUETIFY
 
 WORDPRESS
 
-I know the the following databases
+##I know the the following databases
 
 MONGODB
 
@@ -32,7 +32,8 @@ MYSQL
 
 POSTGRES
 
-you can find me on LINKEDIN
+##you can find me on 
+LINKEDIN
 @ www.linkedin.com/in/emihle-cebisa-60292b223
 
 or you can email me 
